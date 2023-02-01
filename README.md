@@ -1,4 +1,4 @@
-# Test project for IndexedDb and Dexie
+## Test project for IndexedDb and Dexie
 
 tools/Repository.js have class which works with IndexedDb
 
